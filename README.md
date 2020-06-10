@@ -8,3 +8,5 @@
   https://www.fullbay.com/blog/using-browsers/
 # what is hosting?
   https://www.website.com/beginnerguide/webhosting/6/1/what-is-web-hosting?.ws
+# how os work?
+  https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f
